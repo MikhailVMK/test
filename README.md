@@ -1,1 +1,2 @@
 # testfoo
+# add new VM
